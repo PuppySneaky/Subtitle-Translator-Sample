@@ -1,0 +1,568 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\New folder (3)\\SubtitleTranslator - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|d:\\new folder (3)\\subtitletranslator - copy\\subtitletranslator\\services\\googletranslationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|solutionrelative:subtitletranslator\\services\\googletranslationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|d:\\new folder (3)\\subtitletranslator - copy\\subtitletranslator\\services\\isubtitleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|solutionrelative:subtitletranslator\\services\\isubtitleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|d:\\new folder (3)\\subtitletranslator - copy\\subtitletranslator\\services\\ifilestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|solutionrelative:subtitletranslator\\services\\ifilestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|d:\\new folder (3)\\subtitletranslator - copy\\subtitletranslator\\services\\filestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|solutionrelative:subtitletranslator\\services\\filestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|d:\\new folder (3)\\subtitletranslator - copy\\subtitletranslator\\views\\translate\\progress.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|solutionrelative:subtitletranslator\\views\\translate\\progress.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|d:\\new folder (3)\\subtitletranslator - copy\\subtitletranslator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|solutionrelative:subtitletranslator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|d:\\new folder (3)\\subtitletranslator - copy\\subtitletranslator\\services\\cleanupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|solutionrelative:subtitletranslator\\services\\cleanupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|d:\\new folder (3)\\subtitletranslator - copy\\subtitletranslator\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|solutionrelative:subtitletranslator\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|d:\\new folder (3)\\subtitletranslator - copy\\subtitletranslator\\views\\translate\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|solutionrelative:subtitletranslator\\views\\translate\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|d:\\new folder (3)\\subtitletranslator - copy\\subtitletranslator\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|solutionrelative:subtitletranslator\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|d:\\new folder (3)\\subtitletranslator - copy\\subtitletranslator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|solutionrelative:subtitletranslator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|d:\\new folder (3)\\subtitletranslator - copy\\subtitletranslator\\controllers\\translatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|solutionrelative:subtitletranslator\\controllers\\translatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|d:\\new folder (3)\\subtitletranslator - copy\\subtitletranslator\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|solutionrelative:subtitletranslator\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|d:\\new folder (3)\\subtitletranslator - copy\\subtitletranslator\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|solutionrelative:subtitletranslator\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|d:\\new folder (3)\\subtitletranslator - copy\\subtitletranslator\\views\\translate\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|solutionrelative:subtitletranslator\\views\\translate\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|d:\\new folder (3)\\subtitletranslator - copy\\subtitletranslator\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|solutionrelative:subtitletranslator\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|d:\\new folder (3)\\subtitletranslator - copy\\subtitletranslator\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|solutionrelative:subtitletranslator\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|d:\\new folder (3)\\subtitletranslator - copy\\subtitletranslator\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|solutionrelative:subtitletranslator\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|d:\\new folder (3)\\subtitletranslator - copy\\subtitletranslator\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|solutionrelative:subtitletranslator\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|d:\\new folder (3)\\subtitletranslator - copy\\subtitletranslator\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|solutionrelative:subtitletranslator\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|d:\\new folder (3)\\subtitletranslator - copy\\subtitletranslator\\services\\itranslationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|solutionrelative:subtitletranslator\\services\\itranslationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|d:\\new folder (3)\\subtitletranslator - copy\\subtitletranslator\\services\\subtitleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|solutionrelative:subtitletranslator\\services\\subtitleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|d:\\new folder (3)\\subtitletranslator - copy\\subtitletranslator\\core\\subtitleformats\\subripformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|solutionrelative:subtitletranslator\\core\\subtitleformats\\subripformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|d:\\new folder (3)\\subtitletranslator - copy\\subtitletranslator\\core\\subtitleformats\\isubtitleformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|solutionrelative:subtitletranslator\\core\\subtitleformats\\isubtitleformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|d:\\new folder (3)\\subtitletranslator - copy\\subtitletranslator\\core\\common\\subtitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|solutionrelative:subtitletranslator\\core\\common\\subtitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|d:\\new folder (3)\\subtitletranslator - copy\\subtitletranslator\\core\\subtitleformats\\paragraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|solutionrelative:subtitletranslator\\core\\subtitleformats\\paragraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|d:\\new folder (3)\\subtitletranslator - copy\\subtitletranslator\\core\\common\\timecode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|solutionrelative:subtitletranslator\\core\\common\\timecode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|d:\\new folder (3)\\subtitletranslator - copy\\subtitletranslator\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|solutionrelative:subtitletranslator\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|d:\\new folder (3)\\subtitletranslator - copy\\subtitletranslator\\models\\translationmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|solutionrelative:subtitletranslator\\models\\translationmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|d:\\new folder (3)\\subtitletranslator - copy\\subtitletranslator\\models\\subtitlemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|solutionrelative:subtitletranslator\\models\\subtitlemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|d:\\new folder (3)\\subtitletranslator - copy\\subtitletranslator\\views\\shared\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|solutionrelative:subtitletranslator\\views\\shared\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|d:\\new folder (3)\\subtitletranslator - copy\\subtitletranslator\\views\\shared\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|solutionrelative:subtitletranslator\\views\\shared\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|d:\\new folder (3)\\subtitletranslator - copy\\subtitletranslator\\views\\translate\\upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA64B093-62B7-410A-9D77-8A13EF66C48F}|SubtitleTranslator\\SubtitleTranslator.csproj|solutionrelative:subtitletranslator\\views\\translate\\upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Progress.cshtml",
+              "DocumentMoniker": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Views\\Translate\\Progress.cshtml",
+              "RelativeDocumentMoniker": "SubtitleTranslator\\Views\\Translate\\Progress.cshtml",
+              "ToolTip": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Views\\Translate\\Progress.cshtml",
+              "RelativeToolTip": "SubtitleTranslator\\Views\\Translate\\Progress.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwE4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-18T12:38:12.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IFileStorageService.cs",
+              "DocumentMoniker": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Services\\IFileStorageService.cs",
+              "RelativeDocumentMoniker": "SubtitleTranslator\\Services\\IFileStorageService.cs",
+              "ToolTip": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Services\\IFileStorageService.cs",
+              "RelativeToolTip": "SubtitleTranslator\\Services\\IFileStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T12:36:42.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GoogleTranslationService.cs",
+              "DocumentMoniker": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Services\\GoogleTranslationService.cs",
+              "RelativeDocumentMoniker": "SubtitleTranslator\\Services\\GoogleTranslationService.cs",
+              "ToolTip": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Services\\GoogleTranslationService.cs",
+              "RelativeToolTip": "SubtitleTranslator\\Services\\GoogleTranslationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T08:55:31.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileStorageService.cs",
+              "DocumentMoniker": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Services\\FileStorageService.cs",
+              "RelativeDocumentMoniker": "SubtitleTranslator\\Services\\FileStorageService.cs",
+              "ToolTip": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Services\\FileStorageService.cs",
+              "RelativeToolTip": "SubtitleTranslator\\Services\\FileStorageService.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAUwKQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T12:36:55.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\appsettings.json",
+              "RelativeDocumentMoniker": "SubtitleTranslator\\appsettings.json",
+              "ToolTip": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\appsettings.json",
+              "RelativeToolTip": "SubtitleTranslator\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-18T09:09:21.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ISubtitleService.cs",
+              "DocumentMoniker": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Services\\ISubtitleService.cs",
+              "RelativeDocumentMoniker": "SubtitleTranslator\\Services\\ISubtitleService.cs",
+              "ToolTip": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Services\\ISubtitleService.cs",
+              "RelativeToolTip": "SubtitleTranslator\\Services\\ISubtitleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T08:54:56.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Program.cs",
+              "RelativeDocumentMoniker": "SubtitleTranslator\\Program.cs",
+              "ToolTip": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Program.cs",
+              "RelativeToolTip": "SubtitleTranslator\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAUwFgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T09:04:54.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SubtitleTranslator\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SubtitleTranslator\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAUwIYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-18T09:08:32.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CleanupService.cs",
+              "DocumentMoniker": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Services\\CleanupService.cs",
+              "RelativeDocumentMoniker": "SubtitleTranslator\\Services\\CleanupService.cs",
+              "ToolTip": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Services\\CleanupService.cs",
+              "RelativeToolTip": "SubtitleTranslator\\Services\\CleanupService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T12:37:05.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TranslateController.cs",
+              "DocumentMoniker": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Controllers\\TranslateController.cs",
+              "RelativeDocumentMoniker": "SubtitleTranslator\\Controllers\\TranslateController.cs",
+              "ToolTip": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Controllers\\TranslateController.cs",
+              "RelativeToolTip": "SubtitleTranslator\\Controllers\\TranslateController.cs",
+              "ViewState": "AgIAAAABAAAAAAAAAAAUwDcBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T08:53:56.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Views\\Translate\\Index.cshtml",
+              "RelativeDocumentMoniker": "SubtitleTranslator\\Views\\Translate\\Index.cshtml",
+              "ToolTip": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Views\\Translate\\Index.cshtml",
+              "RelativeToolTip": "SubtitleTranslator\\Views\\Translate\\Index.cshtml",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAUwJ8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-18T08:57:38.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "SubtitleTranslator\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "SubtitleTranslator\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAA0BAAAAAAAAAAAUwEQBAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-18T09:09:08.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "SubtitleTranslator\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "SubtitleTranslator\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-18T09:08:39.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "SubtitleTranslator\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "SubtitleTranslator\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAALsAAAAAAAAAAAAAAPQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-18T09:08:58.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SubtitleTranslator\\appsettings.Development.json",
+              "ToolTip": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\appsettings.Development.json",
+              "RelativeToolTip": "SubtitleTranslator\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-18T09:09:29.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SubtitleTranslator\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SubtitleTranslator\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-18T09:08:22.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SubtitleTranslator\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "SubtitleTranslator\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-18T09:08:11.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SubtitleTranslator\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SubtitleTranslator\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwDsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-18T09:07:59.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Result.cshtml",
+              "DocumentMoniker": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Views\\Translate\\Result.cshtml",
+              "RelativeDocumentMoniker": "SubtitleTranslator\\Views\\Translate\\Result.cshtml",
+              "ToolTip": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Views\\Translate\\Result.cshtml",
+              "RelativeToolTip": "SubtitleTranslator\\Views\\Translate\\Result.cshtml",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAUwM8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-18T08:58:01.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SubtitleTranslator\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SubtitleTranslator\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T09:07:46.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SubRipFormat.cs",
+              "DocumentMoniker": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Core\\SubtitleFormats\\SubRipFormat.cs",
+              "RelativeDocumentMoniker": "SubtitleTranslator\\Core\\SubtitleFormats\\SubRipFormat.cs",
+              "ToolTip": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Core\\SubtitleFormats\\SubRipFormat.cs",
+              "RelativeToolTip": "SubtitleTranslator\\Core\\SubtitleFormats\\SubRipFormat.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAUwHMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T08:56:24.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SubtitleService.cs",
+              "DocumentMoniker": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Services\\SubtitleService.cs",
+              "RelativeDocumentMoniker": "SubtitleTranslator\\Services\\SubtitleService.cs",
+              "ToolTip": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Services\\SubtitleService.cs",
+              "RelativeToolTip": "SubtitleTranslator\\Services\\SubtitleService.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAUwOMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T08:55:07.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ITranslationService.cs",
+              "DocumentMoniker": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Services\\ITranslationService.cs",
+              "RelativeDocumentMoniker": "SubtitleTranslator\\Services\\ITranslationService.cs",
+              "ToolTip": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Services\\ITranslationService.cs",
+              "RelativeToolTip": "SubtitleTranslator\\Services\\ITranslationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T08:55:17.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ISubtitleFormat.cs",
+              "DocumentMoniker": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Core\\SubtitleFormats\\ISubtitleFormat.cs",
+              "RelativeDocumentMoniker": "SubtitleTranslator\\Core\\SubtitleFormats\\ISubtitleFormat.cs",
+              "ToolTip": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Core\\SubtitleFormats\\ISubtitleFormat.cs",
+              "RelativeToolTip": "SubtitleTranslator\\Core\\SubtitleFormats\\ISubtitleFormat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T08:56:15.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Subtitle.cs",
+              "DocumentMoniker": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Core\\Common\\Subtitle.cs",
+              "RelativeDocumentMoniker": "SubtitleTranslator\\Core\\Common\\Subtitle.cs",
+              "ToolTip": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Core\\Common\\Subtitle.cs",
+              "RelativeToolTip": "SubtitleTranslator\\Core\\Common\\Subtitle.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAUwFUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T08:56:56.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Paragraph.cs",
+              "DocumentMoniker": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Core\\SubtitleFormats\\Paragraph.cs",
+              "RelativeDocumentMoniker": "SubtitleTranslator\\Core\\SubtitleFormats\\Paragraph.cs",
+              "ToolTip": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Core\\SubtitleFormats\\Paragraph.cs",
+              "RelativeToolTip": "SubtitleTranslator\\Core\\SubtitleFormats\\Paragraph.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T08:56:32.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TimeCode.cs",
+              "DocumentMoniker": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Core\\Common\\TimeCode.cs",
+              "RelativeDocumentMoniker": "SubtitleTranslator\\Core\\Common\\TimeCode.cs",
+              "ToolTip": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Core\\Common\\TimeCode.cs",
+              "RelativeToolTip": "SubtitleTranslator\\Core\\Common\\TimeCode.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAUwGwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T08:57:05.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "SubtitleTranslator\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "SubtitleTranslator\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T09:05:22.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SubtitleModels.cs",
+              "DocumentMoniker": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Models\\SubtitleModels.cs",
+              "RelativeDocumentMoniker": "SubtitleTranslator\\Models\\SubtitleModels.cs",
+              "ToolTip": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Models\\SubtitleModels.cs",
+              "RelativeToolTip": "SubtitleTranslator\\Models\\SubtitleModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T08:54:08.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Views\\Shared\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SubtitleTranslator\\Views\\Shared\\_ViewImports.cshtml",
+              "ToolTip": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Views\\Shared\\_ViewImports.cshtml",
+              "RelativeToolTip": "SubtitleTranslator\\Views\\Shared\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-18T08:58:35.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Views\\Shared\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SubtitleTranslator\\Views\\Shared\\_ViewStart.cshtml",
+              "ToolTip": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Views\\Shared\\_ViewStart.cshtml",
+              "RelativeToolTip": "SubtitleTranslator\\Views\\Shared\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-18T08:58:23.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Upload.cshtml",
+              "DocumentMoniker": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Views\\Translate\\Upload.cshtml",
+              "RelativeDocumentMoniker": "SubtitleTranslator\\Views\\Translate\\Upload.cshtml",
+              "ToolTip": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Views\\Translate\\Upload.cshtml",
+              "RelativeToolTip": "SubtitleTranslator\\Views\\Translate\\Upload.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-18T08:57:52.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TranslationModels.cs",
+              "DocumentMoniker": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Models\\TranslationModels.cs",
+              "RelativeDocumentMoniker": "SubtitleTranslator\\Models\\TranslationModels.cs",
+              "ToolTip": "D:\\New folder (3)\\SubtitleTranslator - Copy\\SubtitleTranslator\\Models\\TranslationModels.cs",
+              "RelativeToolTip": "SubtitleTranslator\\Models\\TranslationModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T08:54:21.073Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

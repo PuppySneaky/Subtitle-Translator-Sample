@@ -1,0 +1,160 @@
+﻿@model UploadSubtitleViewModel
+@{
+    ViewData["Title"] = "Translate Subtitles";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h2 class="mb-4">
+                <i class="fas fa-language text-primary me-2"></i>
+                Translate Subtitles
+            </h2>
+
+            @if (!ViewData.ModelState.IsValid)
+            {
+                <div class="alert alert-danger">
+                    <h6>Please correct the following errors:</h6>
+                    <ul class="mb-0">
+                        @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+                        {
+                            <li>@error.ErrorMessage</li>
+                        }
+                    </ul>
+                </div>
+            }
+
+            <div class="card shadow">
+                <div class="card-header bg-primary text-white">
+                    <h5 class="mb-0">
+                        <i class="fas fa-file-upload me-2"></i>
+                        Upload Subtitle File for Translation
+                    </h5>
+                </div>
+                <div class="card-body">
+                    <form asp-action="Upload" method="post" enctype="multipart/form-data" id="translateForm">
+                        <div class="row">
+                            <div class="col-md-12 mb-4">
+                                <label asp-for="SubtitleFile" class="form-label fw-bold">
+                                    <i class="fas fa-file-alt me-1"></i>
+                                    Select Subtitle File
+                                </label>
+                                <input asp-for="SubtitleFile" class="form-control form-control-lg" type="file"
+                                       accept=".srt,.vtt,.ass,.ssa,.sub" required />
+                                <span asp-validation-for="SubtitleFile" class="text-danger"></span>
+                                <div class="form-text">
+                                    <i class="fas fa-info-circle me-1"></i>
+                                    Supported formats: SRT, VTT, ASS, SSA, SUB | Maximum file size: 20MB
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-6 mb-3">
+                                <label asp-for="SourceLanguage" class="form-label fw-bold">
+                                    <i class="fas fa-globe me-1"></i>
+                                    Source Language
+                                </label>
+                                <select asp-for="SourceLanguage" class="form-select form-select-lg">
+                                    <option value="">🔍 Auto-detect language</option>
+                                    @foreach (var lang in ViewBag.Languages as List<LanguageOption>)
+                                    {
+                                        <option value="@lang.Code">@lang.Name</option>
+                                    }
+                                </select>
+                                <span asp-validation-for="SourceLanguage" class="text-danger"></span>
+                                <div class="form-text">Leave blank to automatically detect the source language</div>
+                            </div>
+
+                            <div class="col-md-6 mb-3">
+                                <label asp-for="TargetLanguage" class="form-label fw-bold">
+                                    <i class="fas fa-language me-1"></i>
+                                    Target Language <span class="text-danger">*</span>
+                                </label>
+                                <select asp-for="TargetLanguage" class="form-select form-select-lg" required>
+                                    <option value="">🎯 Choose target language</option>
+                                    @foreach (var lang in ViewBag.Languages as List<LanguageOption>)
+                                    {
+                                        <option value="@lang.Code">@lang.Name</option>
+                                    }
+                                </select>
+                                <span asp-validation-for="TargetLanguage" class="text-danger"></span>
+                            </div>
+                        </div>
+
+                        <div class="d-grid mt-4">
+                            <button type="submit" class="btn btn-primary btn-lg" id="translateBtn">
+                                <i class="fas fa-magic me-2"></i>
+                                Start Translation
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+            <div class="row mt-5">
+                <div class="col-md-12">
+                    <div class="alert alert-info">
+                        <h6><i class="fas fa-lightbulb me-2"></i>Translation Tips:</h6>
+                        <ul class="mb-0">
+                            <li>For best results, ensure your subtitle file is properly formatted</li>
+                            <li>Complex formatting may be simplified during translation</li>
+                            <li>Large files may take several minutes to process</li>
+                            <li>Translation quality depends on the source text clarity</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function() {
+            $('#translateForm').on('submit', function() {
+                const sourceFile = $('#SubtitleFile')[0].files[0];
+                const targetLang = $('#TargetLanguage').val();
+
+                if (!sourceFile) {
+                    alert('Please select a subtitle file');
+                    return false;
+                }
+
+                if (!targetLang) {
+                    alert('Please select a target language');
+                    return false;
+                }
+
+                $('#translateBtn').prop('disabled', true)
+                    .html('<i class="fas fa-spinner fa-spin me-2"></i>Processing translation...');
+
+                // Show processing message
+                $('<div class="alert alert-warning mt-3" id="processingAlert">' +
+                  '<i class="fas fa-cog fa-spin me-2"></i>' +
+                  'Processing your subtitle file. This may take a few minutes...' +
+                  '</div>').insertAfter('#translateForm');
+            });
+
+            // File validation
+            $('#SubtitleFile').on('change', function() {
+                const file = this.files[0];
+                if (file) {
+                    if (file.size > 20 * 1024 * 1024) {
+                        alert('File size must be less than 20MB');
+                        this.value = '';
+                        return;
+                    }
+
+                    const allowedTypes = ['.srt', '.vtt', '.ass', '.ssa', '.sub'];
+                    const fileExt = file.name.toLowerCase().substring(file.name.lastIndexOf('.'));
+
+                    if (!allowedTypes.includes(fileExt)) {
+                        alert('Please select a valid subtitle file (.srt, .vtt, .ass, .ssa, .sub)');
+                        this.value = '';
+                    }
+                }
+            });
+        });
+    </script>
+}

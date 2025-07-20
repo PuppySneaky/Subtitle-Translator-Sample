@@ -1,0 +1,135 @@
+﻿@model UploadSubtitleViewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">
+        <i class="fas fa-language text-primary"></i>
+        Subtitle Translator
+    </h1>
+    <p class="lead">Translate your subtitle files quickly and easily using Google Translate</p>
+</div>
+
+<div class="row justify-content-center mt-5">
+    <div class="col-md-8 col-lg-6">
+        <div class="card shadow">
+            <div class="card-header bg-primary text-white">
+                <h4 class="mb-0">
+                    <i class="fas fa-upload me-2"></i>
+                    Upload Subtitle File
+                </h4>
+            </div>
+            <div class="card-body">
+                <form asp-controller="Translate" asp-action="Upload" method="post" enctype="multipart/form-data" id="uploadForm">
+                    <div class="mb-3">
+                        <label asp-for="SubtitleFile" class="form-label">
+                            <i class="fas fa-file-alt me-1"></i>
+                            Subtitle File
+                        </label>
+                        <input asp-for="SubtitleFile" class="form-control" type="file" accept=".srt,.vtt,.ass,.ssa,.sub" />
+                        <span asp-validation-for="SubtitleFile" class="text-danger"></span>
+                        <div class="form-text">
+                            Supported formats: .srt, .vtt, .ass, .ssa, .sub (Max size: 20MB)
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-md-6 mb-3">
+                            <label asp-for="SourceLanguage" class="form-label">
+                                <i class="fas fa-globe me-1"></i>
+                                Source Language
+                            </label>
+                            <select asp-for="SourceLanguage" class="form-select" id="sourceLanguage">
+                                <option value="">Auto-detect</option>
+                                @foreach (var lang in ViewBag.Languages as List<LanguageOption>)
+                                {
+                                    <option value="@lang.Code">@lang.Name</option>
+                                }
+                            </select>
+                            <span asp-validation-for="SourceLanguage" class="text-danger"></span>
+                        </div>
+
+                        <div class="col-md-6 mb-3">
+                            <label asp-for="TargetLanguage" class="form-label">
+                                <i class="fas fa-language me-1"></i>
+                                Target Language
+                            </label>
+                            <select asp-for="TargetLanguage" class="form-select" id="targetLanguage" required>
+                                <option value="">Select target language</option>
+                                @foreach (var lang in ViewBag.Languages as List<LanguageOption>)
+                                {
+                                    <option value="@lang.Code">@lang.Name</option>
+                                }
+                            </select>
+                            <span asp-validation-for="TargetLanguage" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <div class="d-grid">
+                        <button type="submit" class="btn btn-primary btn-lg" id="uploadBtn">
+                            <i class="fas fa-upload me-2"></i>
+                            Upload and Translate
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row mt-5">
+    <div class="col-md-4">
+        <div class="card border-0">
+            <div class="card-body text-center">
+                <div class="mb-3">
+                    <i class="fas fa-file-upload fa-3x text-primary"></i>
+                </div>
+                <h5 class="card-title">Upload</h5>
+                <p class="card-text">Upload your subtitle file in SRT, VTT, ASS, SSA, or SUB format.</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card border-0">
+            <div class="card-body text-center">
+                <div class="mb-3">
+                    <i class="fas fa-language fa-3x text-success"></i>
+                </div>
+                <h5 class="card-title">Translate</h5>
+                <p class="card-text">Automatically translate to over 100 languages using Google Translate.</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card border-0">
+            <div class="card-body text-center">
+                <div class="mb-3">
+                    <i class="fas fa-download fa-3x text-info"></i>
+                </div>
+                <h5 class="card-title">Download</h5>
+                <p class="card-text">Download the translated subtitle file ready to use with your video.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function() {
+            $('#uploadForm').on('submit', function() {
+                $('#uploadBtn').prop('disabled', true)
+                    .html('<i class="fas fa-spinner fa-spin me-2"></i>Processing...');
+            });
+
+            // File size validation
+            $('#SubtitleFile').on('change', function() {
+                const file = this.files[0];
+                if (file && file.size > 20 * 1024 * 1024) { // 20MB
+                    alert('File size must be less than 20MB');
+                    this.value = '';
+                }
+            });
+        });
+    </script>
+}

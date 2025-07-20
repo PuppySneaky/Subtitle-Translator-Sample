@@ -1,0 +1,214 @@
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\bin\Debug\net8.0\appsettings.Development.json
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\bin\Debug\net8.0\appsettings.json
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\bin\Debug\net8.0\SubtitleTranslator.staticwebassets.runtime.json
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\bin\Debug\net8.0\SubtitleTranslator.staticwebassets.endpoints.json
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\bin\Debug\net8.0\SubtitleTranslator.exe
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\bin\Debug\net8.0\SubtitleTranslator.deps.json
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\bin\Debug\net8.0\SubtitleTranslator.runtimeconfig.json
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\bin\Debug\net8.0\SubtitleTranslator.dll
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\bin\Debug\net8.0\SubtitleTranslator.pdb
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Hosting.dll
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Logging.Console.dll
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Logging.Debug.dll
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventLog.dll
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventSource.dll
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\bin\Debug\net8.0\System.Text.Json.dll
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\obj\Debug\net8.0\SubtitleTranslator.csproj.AssemblyReference.cache
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\obj\Debug\net8.0\SubtitleTranslator.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\obj\Debug\net8.0\SubtitleTranslator.AssemblyInfoInputs.cache
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\obj\Debug\net8.0\SubtitleTranslator.AssemblyInfo.cs
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\obj\Debug\net8.0\SubtitleTranslator.csproj.CoreCompileInputs.cache
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\obj\Debug\net8.0\SubtitleTranslator.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\obj\Debug\net8.0\SubtitleTranslator.RazorAssemblyInfo.cache
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\obj\Debug\net8.0\SubtitleTranslator.RazorAssemblyInfo.cs
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\obj\Debug\net8.0\scopedcss\bundle\SubtitleTranslator.styles.css
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\obj\Debug\net8.0\scopedcss\projectbundle\SubtitleTranslator.bundle.scp.css
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\obj\Debug\net8.0\staticwebassets.build.json
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\obj\Debug\net8.0\staticwebassets.development.json
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\obj\Debug\net8.0\Subtitle.3F871B11.Up2Date
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\obj\Debug\net8.0\SubtitleTranslator.dll
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\obj\Debug\net8.0\refint\SubtitleTranslator.dll
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\obj\Debug\net8.0\SubtitleTranslator.pdb
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\obj\Debug\net8.0\SubtitleTranslator.genruntimeconfig.cache
+D:\New folder (3)\SubtitleTranslator\SubtitleTranslator\obj\Debug\net8.0\ref\SubtitleTranslator.dll
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\appsettings.Development.json
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\appsettings.json
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\SubtitleTranslator.staticwebassets.runtime.json
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\SubtitleTranslator.staticwebassets.endpoints.json
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\SubtitleTranslator.exe
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\SubtitleTranslator.deps.json
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\SubtitleTranslator.runtimeconfig.json
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\SubtitleTranslator.dll
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\SubtitleTranslator.pdb
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Hosting.dll
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Logging.Console.dll
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Logging.Debug.dll
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventLog.dll
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventSource.dll
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\System.Text.Json.dll
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\SubtitleTranslator.csproj.AssemblyReference.cache
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\SubtitleTranslator.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\SubtitleTranslator.AssemblyInfoInputs.cache
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\SubtitleTranslator.AssemblyInfo.cs
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\SubtitleTranslator.csproj.CoreCompileInputs.cache
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\SubtitleTranslator.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\SubtitleTranslator.RazorAssemblyInfo.cache
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\SubtitleTranslator.RazorAssemblyInfo.cs
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\scopedcss\bundle\SubtitleTranslator.styles.css
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\scopedcss\projectbundle\SubtitleTranslator.bundle.scp.css
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\staticwebassets.build.json
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\staticwebassets.development.json
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\Subtitle.3F871B11.Up2Date
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\SubtitleTranslator.dll
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\refint\SubtitleTranslator.dll
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\SubtitleTranslator.pdb
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\SubtitleTranslator.genruntimeconfig.cache
+D:\New folder (3)\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\ref\SubtitleTranslator.dll
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\appsettings.Development.json
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\appsettings.json
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\SubtitleTranslator.staticwebassets.runtime.json
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\SubtitleTranslator.staticwebassets.endpoints.json
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\SubtitleTranslator.exe
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\SubtitleTranslator.deps.json
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\SubtitleTranslator.runtimeconfig.json
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\SubtitleTranslator.dll
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\SubtitleTranslator.pdb
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Hosting.dll
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Logging.Configuration.dll
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Logging.Console.dll
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Logging.Debug.dll
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventLog.dll
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventSource.dll
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\System.Text.Json.dll
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\SubtitleTranslator.csproj.AssemblyReference.cache
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\SubtitleTranslator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\SubtitleTranslator.AssemblyInfoInputs.cache
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\SubtitleTranslator.AssemblyInfo.cs
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\SubtitleTranslator.csproj.CoreCompileInputs.cache
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\SubtitleTranslator.MvcApplicationPartsAssemblyInfo.cache
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\SubtitleTranslator.RazorAssemblyInfo.cache
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\SubtitleTranslator.RazorAssemblyInfo.cs
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\scopedcss\bundle\SubtitleTranslator.styles.css
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\scopedcss\projectbundle\SubtitleTranslator.bundle.scp.css
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\staticwebassets.build.json
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\staticwebassets.development.json
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\staticwebassets\msbuild.SubtitleTranslator.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\staticwebassets\msbuild.SubtitleTranslator.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\staticwebassets\msbuild.build.SubtitleTranslator.props
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SubtitleTranslator.props
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SubtitleTranslator.props
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\Subtitle.3F871B11.Up2Date
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\SubtitleTranslator.dll
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\refint\SubtitleTranslator.dll
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\SubtitleTranslator.pdb
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\SubtitleTranslator.genruntimeconfig.cache
+E:\Other\Subject\Research\Official\new 1\SubtitleTranslator - Copy\SubtitleTranslator\obj\Debug\net8.0\ref\SubtitleTranslator.dll

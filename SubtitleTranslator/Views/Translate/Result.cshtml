@@ -1,0 +1,208 @@
+﻿@model TranslateResultViewModel
+@{
+    ViewData["Title"] = "Translation Result";
+}
+
+<div class="container">
+    @if (Model.IsSuccess)
+    {
+        <div class="row">
+            <div class="col-md-12">
+                <div class="d-flex justify-content-between align-items-center mb-4">
+                    <h2>
+                        <i class="fas fa-check-circle text-success me-2"></i>
+                        Translation Complete
+                    </h2>
+                    <div>
+                        <form asp-controller="Translate" asp-action="DownloadTranslated" method="post" class="d-inline">
+                            <input type="hidden" name="content" value="@Model.TranslatedContent" />
+                            <input type="hidden" name="fileName" value="@Model.OriginalFileName" />
+                            <input type="hidden" name="targetLanguage" value="@Model.TargetLanguage" />
+                            <button type="submit" class="btn btn-success btn-lg">
+                                <i class="fas fa-download me-2"></i>
+                                Download Translated File
+                            </button>
+                        </form>
+                        <a href="@Url.Action("Index", "Translate")" class="btn btn-primary btn-lg ms-2">
+                            <i class="fas fa-plus me-2"></i>
+                            Translate Another File
+                        </a>
+                    </div>
+                </div>
+
+                <div class="alert alert-success">
+                    <h6><i class="fas fa-info-circle me-2"></i>Translation Summary:</h6>
+                    <ul class="mb-0">
+                        <li><strong>File:</strong> @Model.OriginalFileName</li>
+                        <li><strong>From:</strong> @Model.SourceLanguage → <strong>To:</strong> @Model.TargetLanguage</li>
+                        <li><strong>Subtitles processed:</strong> @Model.TranslatedSubtitles.Count</li>
+                    </ul>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="card h-100">
+                            <div class="card-header bg-primary text-white">
+                                <h5 class="mb-0">
+                                    <i class="fas fa-file-alt me-2"></i>
+                                    Original Subtitles (@Model.SourceLanguage)
+                                </h5>
+                            </div>
+                            <div class="card-body" style="max-height: 600px; overflow-y: auto;">
+                                @foreach (var subtitle in Model.OriginalSubtitles)
+                                {
+                                    <div class="subtitle-item mb-3 p-3 border rounded">
+                                        <div class="subtitle-number text-muted small">
+                                            #@subtitle.Number
+                                        </div>
+                                        <div class="subtitle-time text-primary small mb-2">
+                                            @subtitle.StartTime → @subtitle.EndTime
+                                        </div>
+                                        <div class="subtitle-text">
+                                            @Html.Raw(subtitle.Text.Replace("\n", "<br/>"))
+                                        </div>
+                                    </div>
+                                }
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="card h-100">
+                            <div class="card-header bg-success text-white">
+                                <h5 class="mb-0">
+                                    <i class="fas fa-language me-2"></i>
+                                    Translated Subtitles (@Model.TargetLanguage)
+                                </h5>
+                            </div>
+                            <div class="card-body" style="max-height: 600px; overflow-y: auto;">
+                                @foreach (var subtitle in Model.TranslatedSubtitles)
+                                {
+                                    <div class="subtitle-item mb-3 p-3 border rounded">
+                                        <div class="subtitle-number text-muted small">
+                                            #@subtitle.Number
+                                        </div>
+                                        <div class="subtitle-time text-success small mb-2">
+                                            @subtitle.StartTime → @subtitle.EndTime
+                                        </div>
+                                        <div class="subtitle-text">
+                                            @Html.Raw(subtitle.Text.Replace("\n", "<br/>"))
+                                        </div>
+                                    </div>
+                                }
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row mt-4">
+                    <div class="col-md-12">
+                        <div class="card">
+                            <div class="card-header">
+                                <h5 class="mb-0">
+                                    <i class="fas fa-code me-2"></i>
+                                    Translated SRT Content
+                                    <button class="btn btn-sm btn-outline-secondary float-end" onclick="copyToClipboard()">
+                                        <i class="fas fa-copy me-1"></i>
+                                        Copy to Clipboard
+                                    </button>
+                                </h5>
+                            </div>
+                            <div class="card-body">
+                                <textarea id="translatedContent" class="form-control" rows="15" readonly>@Model.TranslatedContent</textarea>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+    else
+    {
+        <div class="row">
+            <div class="col-md-12">
+                <div class="alert alert-danger">
+                    <h4 class="alert-heading">
+                        <i class="fas fa-exclamation-triangle me-2"></i>
+                        Translation Failed
+                    </h4>
+                    <p>@(Model.ErrorMessage ?? "An unexpected error occurred during translation.")</p>
+                    <hr>
+                    <p class="mb-0">
+                        <a href="@Url.Action("Index", "Translate")" class="btn btn-primary">
+                            <i class="fas fa-arrow-left me-2"></i>
+                            Try Again
+                        </a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+@section Scripts {
+    <script>
+        function copyToClipboard() {
+            const textarea = document.getElementById('translatedContent');
+            textarea.select();
+            textarea.setSelectionRange(0, 99999); // For mobile devices
+
+            try {
+                document.execCommand('copy');
+
+                // Show success message
+                const btn = event.target.closest('button');
+                const originalText = btn.innerHTML;
+                btn.innerHTML = '<i class="fas fa-check me-1"></i>Copied!';
+                btn.classList.remove('btn-outline-secondary');
+                btn.classList.add('btn-success');
+
+                setTimeout(() => {
+                    btn.innerHTML = originalText;
+                    btn.classList.remove('btn-success');
+                    btn.classList.add('btn-outline-secondary');
+                }, 2000);
+
+            } catch (err) {
+                alert('Failed to copy to clipboard');
+            }
+        }
+
+        // Auto-scroll both subtitle panels together
+        $(document).ready(function() {
+            $('.card-body').scroll(function() {
+                const scrollTop = $(this).scrollTop();
+                const scrollHeight = $(this)[0].scrollHeight;
+                const height = $(this).height();
+                const scrollPercent = scrollTop / (scrollHeight - height);
+
+                $('.card-body').not(this).each(function() {
+                    const targetScrollTop = scrollPercent * (this.scrollHeight - $(this).height());
+                    $(this).scrollTop(targetScrollTop);
+                });
+            });
+        });
+    </script>
+}
+
+<style>
+    .subtitle-item {
+        transition: all 0.2s ease;
+    }
+
+    .subtitle-item:hover {
+        background-color: #f8f9fa;
+        border-color: #007bff !important;
+        transform: translateY(-1px);
+        box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+
+    .subtitle-time {
+        font-family: 'Courier New', monospace;
+        font-weight: bold;
+    }
+
+    .subtitle-number {
+        font-weight: bold;
+    }
+</style>
